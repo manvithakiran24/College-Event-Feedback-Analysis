@@ -32,7 +32,7 @@ Most common complaints (from negative comment word cloud)
 Correlation between question rating and event type (boxplot)
 Top-performing courses based on student ratings
 
-🛠️ Tech Stack
+Tech Stack
 Python
 Pandas
 Seaborn / Matplotlib
