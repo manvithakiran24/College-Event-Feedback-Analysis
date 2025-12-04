@@ -5,43 +5,28 @@ This project analyzes student feedback collected from Google Forms. It extracts 
 🔍 Features
 
 Clean and process feedback data
-
 Extract rating values from responses
-
 Sentiment analysis (Positive/Neutral/Negative)
-
 Word cloud for common complaints
-
 Rating distribution & top events
-
 Department/event performance comparison
 
 📁 Technologies Used
 
 Python
-
 Pandas
-
 Matplotlib / Seaborn
-
 TextBlob
-
 WordCloud
 
 🚀 How to Run
 
 Install requirements
-
 Load CSV file
-
 Run the notebook to generate insights and visualizations
 
 📈 Output Includes
-
 Top 3 highest-rated events
-
 Sentiment summary
-
 Complaint word cloud
-
 Ratings by department
